@@ -29,21 +29,21 @@ It is an online game where you create a virtual team of real cricket players and
 
 **Rules of this game**<br/>
 
-Batting<br/> 
-● 1 point for 2 runs scored  <br/>
+Batting <br/> 
+● 1 point for 2 runs scored <br/>
 ● Additional 5 points for half century<br/>  
-● Additional 10 points for century  <br/>
+● Additional 10 points for century<br/>
 ● 2 points for strike rate (runs/balls faced) of 80-100<br/>  
-● Additional 4 points for strike rate>100  <br/>
-● 1 point for hitting a boundary (four) and 2 points for over boundary (six) <br/>
+● Additional 4 points for strike rate>100<br/>
+● 1 point for hitting a boundary (four) and 2 points for over boundary (six)<br/>
 
 Bowling <br/>
 ● 10 points for each wicket<br/>  
 ● Additional 5 points for three wickets per innings<br/>  
-● Additional 10 points for 5 wickets or more in innings <br/> 
-● 4 points for economy rate (runs given per over) between 3.5 and 4.5 <br/> 
-● 7  points for economy rate between 2 and 3.5  <br/>
-● 10 points for economy rate less than 2 <br/>
+● Additional 10 points for 5 wickets or more in innings<br/> 
+● 4 points for economy rate (runs given per over) between 3.5 and 4.5<br/> 
+● 7  points for economy rate between 2 and 3.5<br/>
+● 10 points for economy rate less than 2<br/>
 
 Fielding <br/>
 ● 10 points each for catch/stumping/run out<br/>
