@@ -30,7 +30,7 @@ It is an online game where you create a virtual team of real cricket players and
 **Rules of this game**<br/>
 
 Batting <br/> 
-● 1 point for 2 runs scored <br/>
+● 1 point for 2 runs scored<br/>
 ● Additional 5 points for half century<br/>  
 ● Additional 10 points for century<br/>
 ● 2 points for strike rate (runs/balls faced) of 80-100<br/>  
@@ -48,6 +48,7 @@ Bowling <br/>
 Fielding <br/>
 ● 10 points each for catch/stumping/run out<br/>
 
+**How to select the team**
 ![alt text](criteria.jpg)
 
 
