@@ -48,7 +48,7 @@ Bowling <br/>
 Fielding <br/>
 ● 10 points each for catch/stumping/run out<br/>
 
-**How to select the team**
+**How to select the team**<br/>
 ![alt text](criteria.jpg)
 
 
