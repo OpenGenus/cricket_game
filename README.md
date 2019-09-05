@@ -51,7 +51,8 @@ Fielding <br/>
 **How to select the team**<br/>
 ![alt text](criteria.jpg)
 
-
+To know the stepwise Implemetation of this game then refer the below article
+[Stepwise implemetation fo the above game](https://iq.opengenus.org/p/1a5e1bd2-a03d-4a00-8195-88475b5da6b6/)
 
  
 
